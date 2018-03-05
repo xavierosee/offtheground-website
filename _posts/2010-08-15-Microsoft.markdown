@@ -1,6 +1,6 @@
 ---
-title: Official Xbox France Blog
-subtitle: Content Marketing
+title: Xbox France Official Blog
+subtitle: Promoting XBLA titles through high-value content
 layout: default
 modal-id: 6
 date: 2010-08-15
