@@ -1,5 +1,5 @@
 ---
-title: Warzone - Clash of Generals
+title: "Warzone: Clash of Generals"
 subtitle: Supporting a youtuber-focused launch strategy with paid acquisition
 layout: default
 modal-id: 2
