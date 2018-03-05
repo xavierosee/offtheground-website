@@ -1,6 +1,6 @@
 ---
-title: "Warzone: Clash of Generals"
-subtitle: Mobile Game Launch UA
+title: Warzone - Clash of Generals
+subtitle: Supporting a youtuber-focused launch strategy with paid acquisition
 layout: default
 modal-id: 2
 date: 2017-08-25
@@ -9,7 +9,7 @@ thumbnail: escape-thumbnail.png
 alt: image-alt
 project-date: August 2017
 client: Stratospheric Games
-category: One-off, Remote
-description: Lorem ipsum dolor sit amet, usu cu alterum nominavi lobortis. At duo novum diceret. Tantas apeirian vix et, usu sanctus postulant inciderint ut, populo diceret necessitatibus in vim. Cu eum dicam feugiat noluisse.
+category: Project, Remote (France)
+description: I worked with Stratospheric Games' CEO to set up low-budget acquisition campaigns, supporting the launch of their debut title Warzone: Clash of Generals, that was relying exclusively on youtuber coverage. Warzone: Clash of Generals is a strategic arena battler where you deploy your units to destroy your opponent's headquarters.
 
 ---

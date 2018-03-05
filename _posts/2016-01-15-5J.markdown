@@ -1,15 +1,16 @@
 ---
-title: Hollywood IP Mobile Games
-subtitle: Marketing Strategy and Operations
+title: Fifth Journey: Marketing Strategy and Operations
+subtitle: Growing Hollywood IPs and their respective mobile games' success
 layout: default
-modal-id: 4
-date: 2014-07-16
+modal-id: 3
+date: 2016-01-15
 img: golden.png
 thumbnail: golden-thumbnail.png
 alt: image-alt
-project-date: April 2014
-client: Start Bootstrap
-category: Full-Time, Remote
-description: Lorem ipsum dolor sit amet, usu cu alterum nominavi lobortis. At duo novum diceret. Tantas apeirian vix et, usu sanctus postulant inciderint ut, populo diceret necessitatibus in vim. Cu eum dicam feugiat noluisse.
-
+project-date: January 2016 - August 2017
+client: Fifth Journey
+category: Retainer, Remote (France, Hong-Kong, California)
+description: - Devised and executed cross-marketing partnerships to increase game and IP performance, culminating in the launch of Kubo: A Samurai Quest alongside the animated feature's theatrical release
+- Set up a comprehensive and replicable Marketing Stack across all Fifth Journey's games: Attribution, Marketing analytics, Community and CRM. 
+- Led strategic and branding initiatives for 3 unannounced projects, including VR and AR titles.
 ---

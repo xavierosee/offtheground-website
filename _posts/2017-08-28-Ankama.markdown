@@ -1,6 +1,6 @@
 ---
-title: Transmedia Game Portfoio
-subtitle: Desktop & Mobile UA | ASO
+title: Ankama Games - UA and ASO
+subtitle: Growing user base at scale and optimizing player experience
 layout: default
 modal-id: 1
 date: 2017-08-28
@@ -9,7 +9,6 @@ thumbnail: dreams-thumbnail.png
 alt: image-alt
 project-date: August 2017 - March 2018
 client: Ankama
-category: Full-time, Onsite
-description: Lorem ipsum dolor sit amet, usu cu alterum nominavi lobortis. At duo novum diceret. Tantas apeirian vix et, usu sanctus postulant inciderint ut, populo diceret necessitatibus in vim. Cu eum dicam feugiat noluisse.
-
+category: Retainer, Onsite (France)
+description: I worked with the Ankama user acquisition lead to set up and run UA campaigns across various channels. My product vision also led me to advise the development teams in optimizing their games' UX and monetisation. Ankama is a broad transmedia publisher, whose IPs span supports as varied as PC games, animated TV shows, comic books, and board games and merchandising.
 ---
