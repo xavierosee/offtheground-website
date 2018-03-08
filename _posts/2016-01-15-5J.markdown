@@ -1,16 +1,15 @@
 ---
-title: Fifth Journey: Marketing Strategy and Operations
+title: Fifth Journey - Marketing Strategy and Operations
 subtitle: Growing Hollywood IPs and their respective mobile games' success
 layout: default
 modal-id: 3
 date: 2016-01-15
-img: golden.png
-thumbnail: golden-thumbnail.png
-alt: image-alt
+img: 5J.jpg
+thumbnail: 5J-thumbnail.jpg
+alt: Fifth Journey - Marketing Strategy and Operations
 project-date: January 2016 - August 2017
 client: Fifth Journey
 category: Retainer, Remote (France, Hong-Kong, California)
-description: - Devised and executed cross-marketing partnerships to increase game and IP performance, culminating in the launch of Kubo: A Samurai Quest alongside the animated feature's theatrical release
-- Set up a comprehensive and replicable Marketing Stack across all Fifth Journey's games: Attribution, Marketing analytics, Community and CRM. 
-- Led strategic and branding initiatives for 3 unannounced projects, including VR and AR titles.
+description: During my tenure as Head of Marketing at Fifth Journey, I accompanied the CEO and creative teams in defining and executing the marketing strategy for its portfolio of Hollywood IP-related mobile games. I worked hand-in-hand with the production director to set up a comprehensive tech stack across all their titles, allowing the team to operate critical services such as attribution, analytics, community and CRM. In close cooperation with their stakeholders in Hollywood, I devised and executed cross-marketing operations aimed at increasing both game and IP performance. Alongside Kubo a Samurai Quest, I worked on 4 still-unannounced projects (among which VR and AR titles).
+video: biSKQ7DFbv8
 ---

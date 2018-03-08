@@ -1,15 +1,14 @@
 ---
-title: Xbox France Official Blog
+title: Xbox France Official Blog - Content Marketing
 subtitle: Promoting XBLA titles through high-value content
 layout: default
 modal-id: 6
 date: 2010-08-15
-img: roundicons.png
-thumbnail: roundicons-thumbnail.png
-alt: image-alt
+img: microsoft.jpg
+thumbnail: microsoft-thumbnail.jpg
+alt: Xbox - Blogging and Videocasting
 project-date: 2010, August - November, 2011
 client: Microsoft France
 category: Side Project
-description: Lorem ipsum dolor sit amet, usu cu alterum nominavi lobortis. At duo novum diceret. Tantas apeirian vix et, usu sanctus postulant inciderint ut, populo diceret necessitatibus in vim. Cu eum dicam feugiat noluisse.
-
+description: As part of a side-project not related to my main gig at Microsoft France, I worked on promoting Xbox LIVE Arcade titles, released on the platform every week, via engaging blog articles and content promotion on social networks. This also entailed co-hosting GameCAST, a weekly video show focused on the games industry.
 ---
