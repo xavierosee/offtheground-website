@@ -17,12 +17,6 @@
 
    <!-- FB Pixel: Lead Capture -->
    <script type="text/javascript">
-  var button = document.getElementById('sendMessageButton');
-  button.addEventListener(
-    'click',
-    function() {
-      fbq('track', 'Lead');
-    },
-    false
-  );
+    var button = document.getElementById('sendMessageButton');
+    button.addEventListener('click', function() {fbq('track', 'Lead');},false);
   </script>
