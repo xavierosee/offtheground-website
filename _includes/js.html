@@ -14,3 +14,15 @@
 
    <!-- Custom Theme JavaScript -->
    <script src="{{ "/js/agency.js" | prepend: site.baseurl }}"></script>
+
+   <!-- FB Pixel: Lead Capture -->
+   <script type="text/javascript">
+  var button = document.getElementById('addToCartButton');
+  button.addEventListener(
+    'click',
+    function() {
+      fbq('track', 'Lead');
+    },
+    false
+  );
+  </script>
