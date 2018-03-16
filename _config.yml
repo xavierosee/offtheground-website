@@ -3,9 +3,10 @@ baseurl:
 
 # Site settings
 title: Xavier Rosée
-email: xavier@xavierrosee.com
+email: contact@offtheground.io
 description: "Xavier Rosée is a certified Video Game Marketing professional that provides Strategy and Branding consultancy, along with User Acquisition services for PC and Mobile Games. His range of services caters to everyone from AAA studios to solo indie developers."
 image: img/mainpicture.jpg
+largeimage: img/largepicture.jpg
 
 
 # Team names, titles and social links
