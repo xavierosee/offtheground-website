@@ -1,0 +1,41 @@
+<!-- Team Section -->
+    <section id="datasettings" class="bg-light-gray">
+        <div class="container">
+            <div class="row">
+                <div class="col-lg-12">
+                    <form name="gdprRemoval" id="gdprRemoval" action="https://formspree.io/{{site.email}}" method="POST">
+                      <input type="hidden" name="_next" value="https://offtheground.io" />
+                      <input type="hidden" name="_subject" value="(GDPR) Personal Data Removal request" />
+                      <input type="hidden" name="_language" value="en" />
+                        <div class="row">
+                            <div class="col-md-6">
+                              <h3>Removal of my personal data</h3>
+                              In accordance with the European General Data Protection Regulation (GDPR), I hereby request that all my personal data be removed from your records at once. I am thus sending you my <strong>name</strong> and <strong>email adress</strong> to allow you to find them and remove them from your records.<br /><br />
+                                <div class="control-group form-group">
+                                    <input type="text" class="form-control" placeholder="First Name *" id="name" required name="name" data-validation-required-message="Please enter your First Name.">
+                                    <p class="help-block text-danger"></p>
+                                </div>
+                                <div class="control-group form-group">
+                                    <input type="email" class="form-control" placeholder="Email Address *" id="email" required name="_replyto" data-validation-required-message="Please enter your email address.">
+                                    <p class="help-block text-danger"></p>
+                                </div>
+                                <div class="col-lg-12 text-center">
+                                    <div id="success"></div>
+                                    <button id="sendMessageButton" type="submit" class="btn btn-xl">Request Data Removal</button>
+                                </div>
+                            </div>
+                        </div>
+                    </form>
+                </div>
+            </div>
+            <div class="clearfix"><br /><br /></div>
+            <div class="row">
+              <div class="col-md-6">
+                <h3>Cookies settings</h3>
+                <!-- OneTrust Cookies Settings button start -->
+                  <a class="optanon-show-settings">Cookie Settings</a>
+                <!-- OneTrust Cookies Settings button end -->
+              </div>
+            </div>
+        </div>
+    </section>

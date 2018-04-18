@@ -8,7 +8,7 @@
             </div>
             <div class="row">
                 <div class="col-lg-12">
-                    <form name="contactForm" id="contactForm" action="https://formspree.io/{{site.email}}" method="POST" novalidate>
+                    <form name="contactForm" id="contactForm" action="https://formspree.io/{{site.email}}" method="POST">
                       <input type="hidden" name="_next" value="https://offtheground.io" />
                       <input type="hidden" name="_subject" value="Free consultation request" />
                       <input type="hidden" name="_language" value="en" />
@@ -34,6 +34,20 @@
                                 </div>
                             </div>
                             <div class="clearfix"></div>
+                            <div class="row">
+                              <div class="col-lg-1 col-sm-1 col-xs-1 text-right">
+                                  <div class="control-group form-group">
+                                    <input type="checkbox" class="form-control" id="gdprConsent" required name="gdprConsent" data-validation-required-message="Please allow me to contact you to book a FREE consultation."/>
+                                  </div>
+                              </div>
+                              <div class="col-lg-11 col-sm-11 col-xs-11">
+                                <div class="control-group form-group">
+                                    <label for="gdprConsent" style="color: white; font-family: {{ site.data.template.font.primary }}; font-weight: 100"> I agree to share my <strong>name</strong> and <strong>email address</strong> with Off The Ground for the sole purpose of offering me a free consultation. This data will be stored for 13 months. I am aware that I can withdraw my permission at all time in the <a href="mydata.html" target="_blank">My Data</a> menu. *</label>
+                                    <p class="help-block text-danger"></p>
+                                  </div>
+                              </div>
+                            </div>
+
                             <div class="col-lg-12 text-center">
                                 <div id="success"></div>
                                 <button id="sendMessageButton" type="submit" class="btn btn-xl">Send Message</button>
