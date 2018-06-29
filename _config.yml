@@ -2,9 +2,9 @@ url: https://offtheground.io/
 baseurl:
 
 # Site settings
-title: Xavier Rosée
+title: Off The Ground
 email: contact@offtheground.io
-description: "Xavier Rosée is a certified Video Game Marketing professional that provides Strategy and Branding consultancy, along with User Acquisition services for PC and Mobile Games. His range of services caters to everyone from AAA studios to solo indie developers."
+description: "Off The Ground is a multiple-certified Mobile Marketing consultancy that provides Strategy and Branding consultancy, along with User Acquisition services for Mobile Apps and Games. Our range of services caters to everyone from AAA studios to solo indie developers."
 image: img/mainpicture.jpg
 largeimage: img/largepicture.jpg
 logo: https://offtheground.io/img/logo-white-small.png
@@ -26,7 +26,7 @@ people:
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
 social:
   - title: linkedin
-    url: http://linkedin.com/in/xavierosee
+    url: http://linkedin.com/company/offtheground
   - title: twitter
     url: http://twitter.com/xavierosee
   - title: facebook
