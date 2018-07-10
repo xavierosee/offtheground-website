@@ -10,5 +10,5 @@ alt: Xbox - Blogging and Videocasting
 project-date: 2010, August - November, 2011
 client: Microsoft France
 category: Side Project
-description: As part of a side-project not related to my main gig at Microsoft France, I worked on promoting Xbox LIVE Arcade titles, released on the platform every week, via engaging blog articles and content promotion on social networks. <br/><br/>This also entailed co-hosting GameCAST, a monthly video show focused on the games industry.
+description: As part of a side-project not related to his main gig at Microsoft France, Xavier worked on promoting Xbox LIVE Arcade titles, released on the platform every week, via engaging blog articles and content promotion on social networks. <br/><br/>This also entailed co-hosting GameCAST, a monthly video show focused on the games industry.
 ---

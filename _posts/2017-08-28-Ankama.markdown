@@ -10,5 +10,5 @@ alt: Ankama - User Acquisition, App Store Optimisation and Product Consultancy
 project-date: August 2017 - March 2018
 client: Ankama
 category: Employment, Onsite (France)
-description: I worked with the Ankama user acquisition lead to set up and run UA campaigns across various channels. My product vision also led me to advise the development teams in optimising their games' UX and monetisation. <br/><br/>Ankama is a broad transmedia publisher, whose IPs span supports as varied as PC games, animated TV shows, comic books, and board games and merchandising.
+description: Xavier worked with the Ankama user acquisition lead to set up and run UA campaigns across various channels. His product vision also led him to advise the development teams in optimising their games' UX and monetisation. <br/><br/>Ankama is a broad transmedia publisher, whose IPs span supports as varied as PC games, animated TV shows, comic books, and board games and merchandising.
 ---
